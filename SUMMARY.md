@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Untitled](untitled.md)
+* [nice single](nice-single.md)
 
 ## Chapter 1
 
