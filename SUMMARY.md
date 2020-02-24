@@ -1,12 +1,11 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [nice single](nice-single.md)
+* [Untitled](untitled.md)
 
 ## Chapter 1
 
-* [helloworld](chapter-1/hw.md)
-* [test file](chapter-1/tf.md)
+* [dfsdfs](chapter-1/dfsdfs.md)
 * [asnsdfs1](chapter-1/sdf1.md)
 
 ## Chapter2
